@@ -42,7 +42,7 @@ li a:hover:not(.active) {
   color: white;
 }
 
-p {
+body {
   border-radius: 15px;
   margin-left: 28%;
   margin-right: 2%;
